@@ -3,6 +3,16 @@
   "symbol": "BLIT",
   "description": "The official token of the Blistree ecosystem, enabling community growth and decentralized mining rewards.",
   "image": "https://raw.githubusercontent.com/blistree/token-assets/main/blistree/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/blistree/token-assets/main/blistree/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
   "extensions": {
     "website": "https://blistree.in",
     "twitter": "https://twitter.com/blistreetokens",
