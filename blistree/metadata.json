@@ -2,12 +2,12 @@
   "name": "Blistree Coin",
   "symbol": "BLIT",
   "description": "The official token of the Blistree ecosystem, enabling community growth and decentralized mining rewards.",
-  "image": "https://raw.githubusercontent.com/blistree/token-assets/main/blistree/logo.png",
+  "image": "https://raw.githubusercontent.com/blistree/token-assets/main/blistree/icon.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/blistree/token-assets/main/blistree/logo.png",
+        "uri": "https://raw.githubusercontent.com/blistree/token-assets/main/blistree/icon.png",
         "type": "image/png"
       }
     ],
